@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm thornboo</h1>
 <h3 align="center">I focus on the front end or deeper.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thornboo&label=Profile%20views&color=0e75b6&style=flat" alt="thornboo" /> </p>
