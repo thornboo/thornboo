@@ -12,6 +12,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thornboo&show_icons=true&locale=en&layout=compact" alt="thornboo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thornboo&show_icons=true&locale=en" alt="thornboo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thornboo&show_icons=true&locale=en" alt="thornboo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thornboo&" alt="thornboo" /></p>
