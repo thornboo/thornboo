@@ -19,7 +19,8 @@
   
 </div>
 
-### views
-![](https://komarev.com/ghpvc/?username=thornboo)
+## Thank you for the visit.
 
-[![Page Views Count](https://badges.toozhao.com/badges/01HVJYJJ9Z1A84QCZP7J323233/green.svg)](https://badges.toozhao.com/stats/01HVJYJJ9Z1A84QCZP7J323233 "Get your own page views count badge on badges.toozhao.com")
+![](https://komarev.com/ghpvc/?username=thornboo&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&base=1000&abbreviated=true)
+
+Please give a Star if you like.
