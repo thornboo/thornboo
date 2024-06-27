@@ -20,6 +20,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
+    # 设置单个作业（job）可以运行的最长时间
     timeout-minutes: 10
     
     steps:
