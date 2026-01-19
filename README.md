@@ -1,4 +1,5 @@
 <div align="center">
+
   <!-- dynamic typing effect -->
   <div align="center">
     <!-- Blog address redirection -->
@@ -17,24 +18,6 @@
   </div>
 
 </div>
-
----
-
-## Support Me
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/thornboo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" >
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://afdian.com/a/thornboo" target="_blank">
-    <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="Sponsor me on Afdian" width="150">
-  </a>
-</div>
-
----
 
 ## Thank you for the visit.
 
