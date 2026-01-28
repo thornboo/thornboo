@@ -1,6 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect -->
+  <!-- Need to update! -->
   <div align="center">
     <!-- Blog address redirection -->
     <a href="https://thornboo.github.io">
